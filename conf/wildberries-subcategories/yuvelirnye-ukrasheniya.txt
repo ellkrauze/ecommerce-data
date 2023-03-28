@@ -1,0 +1,16 @@
+/catalog/yuvelirnye-ukrasheniya/koltsa
+/catalog/yuvelirnye-ukrasheniya/sergi
+/catalog/yuvelirnye-ukrasheniya/braslety
+/catalog/yuvelirnye-izdeliya/podveski-i-sharmy
+/catalog/yuvelirnye-izdeliya/komplekty
+/catalog/yuvelirnye-izdeliya/tsepi-i-shnurki
+/catalog/yuvelirnye-ukrasheniya/broshi
+/catalog/yuvelirnye-ukrasheniya/pirsing
+/catalog/yuvelirnye-ukrasheniya/chasy
+/catalog/yuvelirnye-izdeliya/zazhimy-i-zaponki
+/catalog/yuvelirnye-ukrasheniya/chetki
+/catalog/yuvelirnye-izdeliya/suveniry-i-stolovoe-serebro
+/catalog/yuvelirnye-ukrasheniya/zoloto
+/catalog/yuvelirnye-ukrasheniya/serebro
+/catalog/yuvelirnye-ukrasheniya/ukrasheniya-iz-keramiki
+/catalog/yuvelirnye-izdeliya/aksessuary-dlya-ukrasheniy

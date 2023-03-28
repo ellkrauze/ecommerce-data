@@ -1,0 +1,6 @@
+/catalog/obuv/detskaya
+/catalog/obuv/dlya-novorozhdennyh
+/catalog/obuv/zhenskaya
+/catalog/obuv/muzhskaya
+/catalog/obuv/ortopedicheskaya-obuv
+/catalog/obuv/aksessuary-dlya-obuvi

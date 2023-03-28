@@ -1,0 +1,8 @@
+/catalog/knigi-i-kantstovary/kantstovary/bumazhnaya-produktsiya
+/catalog/knigi-i-kantstovary/kantstovary/karty-i-globusy
+/catalog/knigi-i-kantstovary/kantstovary/ofisnye-prinadlezhnosti
+/catalog/knigi-i-kantstovary/kantstovary/pismennye-prinadlezhnosti
+/catalog/knigi-i-kantstovary/kantstovary/risovanie-i-lepka
+/catalog/knigi-i-diski/kantstovary/schetniy-material
+/catalog/kantstovary/torgovye-prinadlezhnosti
+/catalog/knigi-i-kantstovary/kantstovary/chertezhnye-prinadlezhnosti

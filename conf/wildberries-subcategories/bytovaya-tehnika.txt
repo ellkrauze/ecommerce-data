@@ -1,0 +1,6 @@
+/catalog/elektronika/tehnika-dlya-doma/uvlazhniteli-i-vozduhootchistiteli
+/catalog/elektronika/krasota-i-zdorove
+/catalog/bytovaya-tehnika/sadovaya-tehnika
+/catalog/elektronika/tehnika-dlya-doma
+/catalog/elektronika/tehnika-dlya-kuhni
+/catalog/bytovaya-tehnika/krupnaya-bytovaya-tehnika

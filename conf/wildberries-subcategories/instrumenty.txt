@@ -1,0 +1,10 @@
+/catalog/dlya-remonta/dveri-okna-i-furnitura
+/catalog/dom-i-dacha/instrumenty/instrumenty
+/catalog/dom-i-dacha/tovary-dlya-remonta/otdelochnye-materialy
+/catalog/bytovaya-tehnika/stroitelstvo-i-remont/elektrika
+/catalog/dlya-remonta/lakokrasochnye-materialy
+/catalog/dlya-remonta/santehnika-otoplenie-i-gazosnabzhenie
+/catalog/dlya-remonta/ventilyatsiya
+/catalog/dlya-remonta/krepezh
+/catalog/dlya-remonta/stroymaterialy
+/catalog/dlya-remonta/sbornye-konstruktsii
