@@ -1,0 +1,17 @@
+/catalog/elektronika/avtoelektronika
+/catalog/elektronika/igry-i-razvlecheniya/aksessuary/garnitury
+/catalog/elektronika/detskaya-elektronika
+/catalog/elektronika/razvlecheniya-i-gadzhety/igrovye-konsoli
+/catalog/elektronika/kabeli-i-zaryadnye-ustroystva
+/catalog/elektronika/muzyka-i-video
+/catalog/elektronika/noutbuki-periferiya
+/catalog/elektronika/ofisnaya-tehnika
+/catalog/elektronika/razvlecheniya-i-gadzhety
+/catalog/elektronika/setevoe-oborudovanie
+/catalog/elektronika/bezopasnost-doma
+/catalog/elektronika/smartfony-i-telefony
+/catalog/elektronika/smart-chasy
+/catalog/elektronika/tv-audio-foto-video-tehnika
+/catalog/elektronika/torgovoe-oborudovanie
+/catalog/elektronika/umnyy-dom
+/catalog/sport/elektrotransport-i-aksessuary

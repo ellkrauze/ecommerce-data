@@ -1,0 +1,11 @@
+/catalog/detyam/dlya-devochek
+/catalog/detyam/odezhda/dlya-malchikov
+/catalog/detyam/odezhda/dlya-novorozhdennyh
+/catalog/elektronika/detskaya-elektronika
+/catalog/detyam/konstruktory
+/catalog/sport/dlya-detey/detskiy-transport
+/catalog/detyam/detskoe-pitanie
+/catalog/detyam/religioznaya
+/catalog/detyam/tovary-dlya-malysha
+/catalog/detyam/tovary-dlya-malysha/podguzniki/podguzniki-detskie
+/catalog/podarki/detyam

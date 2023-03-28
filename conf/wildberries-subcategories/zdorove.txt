@@ -1,0 +1,16 @@
+/catalog/dom-i-dacha/zdorove/vitaminy-i-bady
+/catalog/dom-i-dacha/zdorove/griby-sushenye-i-kapsulirovannye
+/catalog/dom-i-dacha/zdorove/lekarstvennye-preparaty/antibakterialnye-i-antisepticheskie-preparaty
+/catalog/dom-i-dacha/zdorove/kapli-sprei-i-rastvory
+/catalog/dom-i-dacha/zdorove/kontratseptivy-i-lubrikanty
+/catalog/zdorove/lechebnoe-pitanie-
+/catalog/aksessuary/golovnye-ubory/maski-vetrozashchitnye
+/catalog/dom-i-dacha/zdorove/meditsinskie-izdeliya-i-pribory
+/catalog/dom-i-dacha/zdorove/meditsinskie-izdeliya-i-pribory/meditsinskie-pribory
+/catalog/zdorove/ozdorovlenie
+/catalog/dom-i-dacha/zdorove/optika
+/catalog/dom-i-dacha/zdorove/ortopediya
+/catalog/dom-i-dacha/zdorove/protivoprostudnye-preparaty
+/catalog/zdorove/meditsinskie-izdeliya-i-pribory/sredstva-reabilitatsii
+/catalog/dom-i-dacha/zdorove/siropy-i-balzamy
+/catalog/zdorove/uhod-za-polostyu-rta

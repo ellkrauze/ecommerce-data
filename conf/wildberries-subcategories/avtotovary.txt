@@ -1,0 +1,15 @@
+/catalog/avtotovary/zapchasti-na-legkovye-avtomobili
+/catalog/avtotovary/masla-i-zhidkosti
+/catalog/aksessuary/avtotovary/uhod-za-avtomobilem
+/catalog/avtotovary/kraski
+/catalog/elektronika/avtoelektronika
+/catalog/avtotovary/avtoaksessuary-i-dopolnitelnoe-oborudovanie/aksessuary-v-salon-i-bagazhnik
+/catalog/avtotovary/kovriki
+/catalog/aksessuary/avtotovary/avtoaksessuary-i-dopolnitelnoe-oborudovanie/vneshniy-tyuning
+/catalog/aksessuary/avtotovary/avtoaksessuary-i-dopolnitelnoe-oborudovanie
+/catalog/avtotovary/shiny-i-diski
+/catalog/avtotovary/instrumenty
+/catalog/dom/dachniy-sezon/moyki-vysokogo-davleniya-i-aksessuary
+/catalog/avtotovary/mototovary
+/catalog/avtotovary/zapchasti-na-silovuyu-tehniku
+/catalog/avtotovary/zapchasti-dlya-lodok-i-katerov

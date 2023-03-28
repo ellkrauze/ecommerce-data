@@ -1,0 +1,15 @@
+/catalog/dachniy-sezon/basseyny
+/catalog/dom/sad-i-dacha/gorshki-opory-i-vse-dlya-rassady
+/catalog/dom/sad-i-dacha/grili-mangaly-i-barbekyu
+/catalog/dom/dachniy-sezon/dachnye-umyvalniki-dushi-i-tualety
+/catalog/dom/dachniy-sezon/moyki-vysokogo-davleniya-i-aksessuary
+/catalog/dom/dachniy-sezon/poliv-i-vodosnabzhenie
+/catalog/dom/dachniy-sezon/rasteniya-semena-i-grunty
+/catalog/dom/dachniy-sezon/sadovaya-mebel
+/catalog/dom/sad-i-dacha/sadovaya-tehnika
+/catalog/dom/dachniy-sezon/sadoviy-dekor
+/catalog/dom/dachniy-sezon/sadoviy-instrument
+/catalog/dom/dachniy-sezon/teplitsy-parniki-ukryvnoy-material
+/catalog/dom-i-dacha/tovary-dlya-bani
+/catalog/dom/dachniy-sezon/tovary-dlya-kempinga-piknika-i-otdyha
+/catalog/dom/dachniy-sezon/udobreniya-himikaty-i-sredstva-zashchity

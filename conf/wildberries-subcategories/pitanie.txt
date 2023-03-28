@@ -1,0 +1,14 @@
+/catalog/produkty/vkusnye-podarki
+/catalog/produkty-pitaniya/chay-kofe
+/catalog/pitanie/sladosti
+/catalog/pitanie/bakaleya
+/catalog/pitanie/detskoe-pitanie
+/catalog/produkty/dobavki-pishchevye
+/catalog/pitanie/zdorovoe-pitanie
+/catalog/produkty/myasnaya-produktsiya
+/catalog/pitanie/chay-kofe/moloko-i-slivki
+/catalog/pitanie/napitki
+/catalog/pitanie/sneki
+/catalog/produkty/zamorozhennaya-produktsiya
+/catalog/produkty/frukty
+/catalog/produkty/ovoshchi

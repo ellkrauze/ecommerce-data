@@ -1,0 +1,11 @@
+/catalog/dom/mebel/beskarkasnaya-mebel
+/catalog/dom/mebel/detskaya-mebel
+/catalog/dom/mebel/divany-i-kresla
+/catalog/mebel/stoly-i-stulya
+/catalog/dom/mebel/mebel-dlya-gostinoy
+/catalog/dom/mebel/mebel-dlya-kuhni
+/catalog/dom/mebel/mebel-dlya-prihozhey
+/catalog/dom/mebel/mebel-dlya-spalni
+/catalog/dom/mebel/ofisnaya-mebel
+/catalog/dom/mebel/torgovaya-mebel
+/catalog/dom/mebel/mebelnaya-furnitura
